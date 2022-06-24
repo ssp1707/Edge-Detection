@@ -28,10 +28,12 @@ Laplacian=cv2.Laplacian(img,cv2.CV_64F)
 ```
 canny=cv2.Canny(img,120,150)
 ```
-
 ### Step3:
 Display all the images with their respective edge detected images.
-
+<br>
+<br>
+<br>
+<br>
 
 ## Program:
 ### Developed By   : S. Sanjna Priya
@@ -97,7 +99,18 @@ plt.imshow(canny_edges,cmap='gray')
 plt.title('canny_edges')
 plt.show()
 ```
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Output:
 ### SOBEL EDGE DETECTOR
 
